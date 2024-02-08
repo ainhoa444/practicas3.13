@@ -1,0 +1,24 @@
+table,td{
+    border: black 1px solid;
+
+}
+
+.tabla1{
+    border: red 1px solid;
+}
+.tabla2{
+    border: red 1px solid;
+}
+.celdas2 {
+    border: blue 1px solid;
+}
+.tabla5{
+    border: black 1px solid;
+}
+.negro{
+    border: black 1px solid;
+}
+
+.rojo{
+    color: red;
+}
